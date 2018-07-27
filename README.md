@@ -42,4 +42,4 @@ Once your shift is over, type `qbot out` to end your shift.
 ## Resources
 
 * [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch-cheatsheet.md)
-* [Qbot Commands](https://github.com/flatiron-labs/online-ed-ops/blob/master/technical-coach-team/role-technical-coach/lib/qbot.md) 
+* [Qbot Commands](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md) 
