@@ -1,5 +1,8 @@
 # Doing a Dispatch Shift
 
+In this lesson we'll cover how to work the dispatch role while on shift. Be sure to check out the [Dispatch Guide](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-guide.md)
+ and [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-cheatsheet.md) for more information.
+
 ## Starting Your Shift
 When you start your shift:
 
@@ -41,5 +44,6 @@ Once your shift is over, type `qbot out` to end your shift.
 
 ## Resources
 
-* [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch-cheatsheet.md)
+* [Dispatch Guide](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-guide.md)
+* [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-cheatsheet.md)
 * [Qbot Commands](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md) 
