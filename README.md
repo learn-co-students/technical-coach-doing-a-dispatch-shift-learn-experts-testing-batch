@@ -3,17 +3,19 @@
 In this lesson we'll cover how to work the dispatch role while on shift. Be sure to check out the [Dispatch Guide](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-guide.md)
  and [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-cheatsheet.md) for more information.
 
+ Be sure to also check out the [Dispatch Sheet](https://docs.google.com/spreadsheets/d/124Vvqd1Hk2DoStjW2fGXrvjPkMn2ZzMCMFqqTQOtG6s/edit#gid=1277548195) to that you know if and when you will be working the dispatch role during your shift. The sheet is also pinned in the `daily-dispatch-line` Slack chanel. 
+
 ## Starting Your Shift
 When you start your shift:
 
 - Open up the [Expert Chat](https://learn.co/expert-chat) window
 - Write `qbot in dispatch` in the `#technical-coaches` Slack channel
-- Greet the other TCs on shift and see how the day has been going 
+- Greet the other TCs on shift and see how the day has been going
 
-If this is the first shift of the day, the Technical Coaches who are on shift will have to decide between them who the dispatcher is. You will then `qbot in dispatch` in the `#technical-coaches` channel. The dispatcher is in charge of handing this role off to another TC sometime during their shift or at the end of their shift. 
+If this is the first shift of the day, the Technical Coaches who are on shift will have to decide between them who the dispatcher is. You will then `qbot in dispatch` in the `#technical-coaches` channel. The dispatcher is in charge of handing this role off to another TC sometime during their shift or at the end of their shift.
 
 ## During Your Shift
-The Technical Coach on dispatch greets all incoming chats and gets some preliminary information from the students. 
+The Technical Coach on dispatch greets all incoming chats and gets some preliminary information from the students.
 
 If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can answer it in the chat and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to a coach.
 
@@ -38,7 +40,7 @@ If you queue a student but they have already figured out the issue, you can type
 **Do not resolve questions for students on AAQ. Only resolve questions where the last respond time by the original poster is more than 10 hours old.**
 
 ## Ending Your Shift
-At 5 minutes before your shift ends, make sure to type `@here dispatch available in 5 minutes` in order to let other TCs know that dispatch will be available. It is your responsibility to make sure the dispatch role is filled when you your shift ends. If no one volunteers, feel free to pick someone - you can use a [random name selector](https://www.miniwebtool.com/random-name-picker/) to do this. 
+At 5 minutes before your shift ends, make sure to type `@here dispatch available in 5 minutes` in order to let other TCs know that dispatch will be available. It is your responsibility to make sure the dispatch role is filled when you your shift ends. If no one volunteers, feel free to pick someone - you can use a [random name selector](https://www.miniwebtool.com/random-name-picker/) to do this.
 
 Once your shift is over, type `qbot out` to end your shift.
 
@@ -46,4 +48,4 @@ Once your shift is over, type `qbot out` to end your shift.
 
 * [Dispatch Guide](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-guide.md)
 * [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-cheatsheet.md)
-* [Qbot Commands](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md) 
+* [Qbot Commands](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md)
