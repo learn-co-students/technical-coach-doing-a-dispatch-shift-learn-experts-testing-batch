@@ -3,7 +3,7 @@
 In this lesson we'll cover how to work the dispatch role while on shift. Be sure to check out the [Dispatch Guide](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-guide.md)
  and [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-cheatsheet.md) for more information.
 
- Be sure to also check out the [Dispatch Sheet](https://docs.google.com/spreadsheets/d/124Vvqd1Hk2DoStjW2fGXrvjPkMn2ZzMCMFqqTQOtG6s/edit#gid=1277548195) to that you know if and when you will be working the dispatch role during your shift. The sheet is also pinned in the `daily-dispatch-line` Slack channel.
+ Be sure to also check out the [Dispatch Sheet](https://docs.google.com/spreadsheets/d/124Vvqd1Hk2DoStjW2fGXrvjPkMn2ZzMCMFqqTQOtG6s/edit#gid=1277548195) so that you know if and when you will be working the dispatch role during your shift. The sheet is also pinned in the `daily-dispatch-line` Slack channel.
 
 ## Starting Your Shift
 When you start your shift:
@@ -13,7 +13,7 @@ When you start your shift:
 - Write `qbot in dispatch` in the `#technical-coaches` Slack channel
 - Greet the other TCs on shift and see how the day has been going
 
-Currently we use the Dispatch Sheet to determine who is in the dispatch role, and when, during the shifts for a given day. It is your responsibility to know when you should be on dispatch **before** starting your shift. If there is an error in the sheet (e.g. someone is listed as dispatch who is no longer on shift), then the other TCs on shift can decide who will cover that hour. If you have swapped shifts with someone who is listed on the dispatch sheet for that shift, you are responsible for covering their time on dispatch as well.
+Currently we use the Dispatch Sheet to determine who is in the dispatch role, and when, during the shifts for a given day. It is your responsibility to know when you should be on dispatch **before** starting your shift. If there is an error in the sheet (e.g. someone is listed as dispatch who is no longer on shift), then the other TCs on shift can decide who will cover that hour. If you have swapped shifts (more on that later!) with someone who is listed on the dispatch sheet for that shift, you are responsible for covering their time on dispatch as well.
 
 ## During Your Shift
 The Technical Coach on dispatch greets all incoming chats and gets some preliminary information from the students.
@@ -41,7 +41,7 @@ If you queue a student but they have already figured out the issue, you can type
 **Do not resolve questions for students on AAQ. Only resolve questions where the last response time by the original poster is more than one hour old.**
 
 ## Ending Your Dispatch Shift
-It is your responsibility to make sure the dispatch role is filled when your shift ends. If the TC who is up next for dispatch is not yet online or is finishing up a screenshare, remind that TC that they are up next for dispatch. If you are still on shift but are now scheduled to be in sync, remain in the dispatch role until the appropriate TC is available. Otherwise, have one of the remaining TCs on shift cover until the appropriate TC is available. 
+It is your responsibility to make sure the dispatch role is filled when your shift ends. If the TC who is up next for dispatch is not yet online or is finishing up a screenshare, remind that TC that they are up next for dispatch. If you are still on shift but are now scheduled to be in sync, remain in the dispatch role until the appropriate TC is available. Otherwise, have one of the remaining TCs on shift cover until the appropriate TC is available.
 
 Once your shift is over, type `qbot out` to end your shift.
 
