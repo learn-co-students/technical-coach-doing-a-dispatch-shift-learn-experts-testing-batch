@@ -20,9 +20,7 @@ The Technical Coach on dispatch greets all incoming chats and gets some prelimin
 
 If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can answer it in the chat and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to a coach.
 
-If it's clear that the student will need more than a link and a few short answers, set them up to pair program by saying something like: `"Would you like to pair program with a technical coach for 20 minutes?"`
-
-When you ask the student if they want to pair program, **make sure to add pair program (and not screen share) with a Technical Coach. This will help them get comfortable with the idea of pair programming with another developer**. This also lets them know that TCs are allotted 20 minutes per pairing.
+If it's clear that the student will need more than a link and a few short answers, set them up to pair program by saying something like: `"Would you like to pair program (or screenshare) with a technical coach for 20 minutes?"` This will help them get comfortable with the idea of pair programming with another developer, and lets them know that TCs are allotted 20 minutes per pairing.
 
 If the student agrees, copy the question link by clicking on the clipboard:
 
