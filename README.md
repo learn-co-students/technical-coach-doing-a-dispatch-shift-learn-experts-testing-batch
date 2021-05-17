@@ -1,5 +1,7 @@
 # Doing a Dispatch Shift
 
+## Note: this lesson is outdated, and references language and platforms we no longer use, e.g. "sync", "dispatch", "qbot". Any screenshots are also outdated. You should feel free to skip this lesson for now.
+
 In this lesson we'll cover how to work the dispatch role while on shift. Be sure to check out the [Dispatch Guide](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-guide.md)
  and [Dispatch Cheat Sheet](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch/dispatch-cheatsheet.md) for more information.
 
